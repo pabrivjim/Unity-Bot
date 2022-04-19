@@ -1,11 +1,6 @@
 # Unity Discord Bot
 
 You will need to Install:
-
+Python 3 and Discord
 Discord:
-
-
-python3 -m pip install -U discord.py
-
-
-And thats it. Btw I'm using python3 
+  python3 -m pip install -U discord.py
